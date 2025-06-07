@@ -1,10 +1,12 @@
 # Path_to_Mr_Robot
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFtZndjbm90dmM1aGRkY3F0enBkajJjZ253Mm50a2N6dHg5Z2p6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif" alt="Video" height="250px"> 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFtZndjbm90dmM1aGRkY3F0enBkajJjZ253Mm50a2N6dHg5Z2p6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif" alt="Video" height="250px" width="500px"> 
 
 7 Subject areas for proficiency (If you have all of the certs in the 7 areas listed  you are 'potentially' the words greatest hacker!!!)
 
-Certs are listed in decending order for increased level of difficult in their respective catergorization
+Certs are listed in decending order for increased level of difficult in their respective catergorization.
+
+This is meant to be a life long effort not a short term sprint but if you reach teh end goal early more power to you. 
 
 **Network Security**
 
@@ -17,6 +19,7 @@ Certs are listed in decending order for increased level of difficult in their re
     [] Cisco Certified Network Professional - Security (CCNP - S)
 
         Expert
+    [] Cisco Certified Design Expert (CCDE)
     [] Cisco Certified Internetwork Expert (CCIE)
     [] Microsoft Certified Azure Network Engineer
     [] Google Professional Cloud Network Engineer
@@ -115,6 +118,7 @@ Certs are listed in decending order for increased level of difficult in their re
 
         Intermediate
     [] IntelTechniques Open Source Intelligence Professional (OSIP)
+    [] McAfee Certified Social Media Intelligence Expert (CSMIE)
     [] EC Council Computer Hacking Forensic Investigator (CHFI)
     [] INE Certified Inident Responder (eCIR)
     [] INFOSEC Certified Mobile Forensics Examiner (CMFE)
@@ -211,6 +215,9 @@ Certs are listed in decending order for increased level of difficult in their re
     [] International Association of Privacy Professionals Certified Information Privacy Professional (CIPP)
     [] International Association of Privacy Professionals Certified Information Privacy Technologist (CIPT)
     [] GIAC Law of Data Security & Investigations (GLEG)
+
+        Criminal Profiling
+    
 
         Useful Websites
     Hackthebox 
