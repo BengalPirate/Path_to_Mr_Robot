@@ -1,6 +1,6 @@
 # Path_to_Mr_Robot
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFtZndjbm90dmM1aGRkY3F0enBkajJjZ253Mm50a2N6dHg5Z2p6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif" alt="Video" height="250px" width="500px"> 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFtZndjbm90dmM1aGRkY3F0enBkajJjZ253Mm50a2N6dHg5Z2p6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif" alt="Video" height="250px" width="375px"> 
 
 7 Subject areas for proficiency (If you have all of the certs in the 7 areas listed  you are 'potentially' the words greatest hacker!!!)
 
