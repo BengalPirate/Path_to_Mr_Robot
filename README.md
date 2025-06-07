@@ -13,10 +13,11 @@ Certs are listed in decending order for increased level of difficult in their re
 
         Intermediate
     [] Cisco Certified Network Associate (CCNA)
-
-        Expert
     [] Cisco Certified Network Professional - Enterprise (CCNP - E)
     [] Cisco Certified Network Professional - Security (CCNP - S)
+
+        Expert
+    [] Cisco Certified Internetwork Expert (CCIE)
     [] Microsoft Certified Azure Network Engineer
     [] Google Professional Cloud Network Engineer
     [] Amazon Web Services Certified Advanced Networking Specialty
@@ -66,7 +67,7 @@ Certs are listed in decending order for increased level of difficult in their re
     [] GIAC Security Professsional (GSP)
     [] GIAC Strategic Planning, Policy and Leadership (GSTRT)
     [] ISC2 Certified Information Systems Security Professional (CISSP)
-    [] PMI Project Management Professional (PMP)
+    [] Project Management Institute Project Management Professional (PMP)
     [] ISACA Certified Information Security Manager (CISM)
     [] GIAC Security Expert (GSE)
 
@@ -164,16 +165,11 @@ Certs are listed in decending order for increased level of difficult in their re
     [] Offensive Security WEB - 300 Advanced Web Attacks and Exploitation (OSWE)
     [] Offensive Security PEN - 300 Evasion Techniques and Breaching Defenses (OSEP)
     [] Offensive Security EXP - 301 Windows User Mode Exploit Development (OSED)
-
         [] Offensive Security Certified Expert 3 (OSCE3)
-            Earning the OSED, OSEP and OSWE automatically grants you the new OSCE3
-
+            *Earning the OSED, OSEP and OSWE automatically grants you the new OSCE3
     [] Offensive Security EXP - 401 Advanced Windows Exploitation (OSEE)
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3k2cXd0enI4ZXFuMDI2Y2NwM3cyY2Iyd2V5bXBmeDJ1cjBsdWNtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F1EEpO4NKcqym0ucJY/giphy.gif" alt="Video" height="250px"> 
-
-
-
 
 ***Other Content***
 
