@@ -10,9 +10,6 @@ https://pauljerimy.com/security-certification-roadmap/
 
 This is meant to be a life long effort not a short term sprint but if you reach the end goal early, more power to you! 
 
-(Add GIAC Mobile Device Security Analyst (GMOB) inder Assessment and Testing Intermediate
-ISC2 HCISPP under Security and Risk Management Intermediate)
-
 **Network Security**
 
         Beginner
@@ -67,6 +64,7 @@ ISC2 HCISPP under Security and Risk Management Intermediate)
     [] Mile2 Certified Healthcare Information Systems Security Practitoner (C-HISSP)
 
         Intermediate
+    [] ISC2 HealthCare Information Security and Privacy Practitoner (HCISPP)
     [] ISACA Certified Data Privacy Solutions Engineer (CDPSE)
     [] ISACA Certified in Risk and Information Systems Control (CRISC)
 
@@ -87,6 +85,7 @@ ISC2 HCISPP under Security and Risk Management Intermediate)
 
         Intermediate
     [] GIAC Certified Intrusion Analyst Certification (GCIA)
+    [] GIAC Mobile Device Security Analyst (GMOB)
 
         Expert
     [] ISACA Certified Information Systems Auditor (CISA)
