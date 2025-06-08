@@ -109,6 +109,7 @@ This is meant to be a life long effort not a short term sprint but if you reach 
         Expert
     [] Mosse Institute Certified Reverse Engineer Certification (MRE)
     [] Mosse Institute Certified Code Deobfuscation Specialist Certification (MCD)
+    [] TCM Security Practical Malware Research Professional (PMRP)
     [] GIAC Reverse Engineering Malware Certification (GREM)
 
 **Forensics**
@@ -143,6 +144,7 @@ This is meant to be a life long effort not a short term sprint but if you reach 
     [] CompTIA Pentest+
     [] EC Council Certified Ethical Hacker  (CEH)
     [] Mosse Institute Vulnerability Research and Exploitation Specialist (MVRE)
+    [] TCM Security Practical IoT Pentest Associate (PIPA)
     [] INE Junior Penetration Tester (eJPT)
     [] INE Mobile Application Penetration Tester (eMAPT)
     [] Mile2 Certified Powershell Hacker (C - PSH)
@@ -233,3 +235,25 @@ This is meant to be a life long effort not a short term sprint but if you reach 
         https://tryhackme.com 
     Hackerverse 
         https://www.hackerverse.com
+    zSecurity
+        https://zsecurity.org
+    Hak5
+        https://shop.hak5.org/
+    NullByte
+        https://null-byte.wonderhowto.com/collection/cyber-weapons-lab/
+    Sektor7
+        https://institute.sektor7.net
+    Malware Unicorn
+        https://malwareunicorn.org/workshops/re101.html#0
+    Tib3rius ⁣
+        https://www.udemy.com/user/tib3rius/?srsltid=AfmBOoqHnhgPGnMx8Ng1Dn_Ar77oZ98X3wZHKt4Uz_YfEg0hQtELegtR
+    HackerSploit
+        https://hackersploit-academy.thinkific.com/collections
+    Chip Whisperer
+        https://learn.chipwhisperer.io
+
+        Youtubers
+    IppSec
+    Loi Liang Yang
+    NetworkChuck
+
