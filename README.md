@@ -2,7 +2,7 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFtZndjbm90dmM1aGRkY3F0enBkajJjZ253Mm50a2N6dHg5Z2p6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif" alt="Video" height="250px" width="375px"> 
 
-7 Subject areas for proficiency (If you have all of the certs in the 7 areas listed  you are 'potentially' the words greatest hacker!!!)
+7 Subject areas for proficiency (If you have all of the certs in the 7 areas listed  you are 'potentially' the worlds greatest hacker!!!)
 
 Certs are listed in decending order for increased level of difficult in their respective catergorization. This list was compiled and condensed using information from the following website:
 
