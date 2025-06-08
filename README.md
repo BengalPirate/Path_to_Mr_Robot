@@ -4,9 +4,14 @@
 
 7 Subject areas for proficiency (If you have all of the certs in the 7 areas listed  you are 'potentially' the words greatest hacker!!!)
 
-Certs are listed in decending order for increased level of difficult in their respective catergorization.
+Certs are listed in decending order for increased level of difficult in their respective catergorization. This list was compiled and condensed using information from the following website:
 
-This is meant to be a life long effort not a short term sprint but if you reach teh end goal early more power to you. 
+https://pauljerimy.com/security-certification-roadmap/
+
+This is meant to be a life long effort not a short term sprint but if you reach the end goal early, more power to you! 
+
+(Add GIAC Mobile Device Security Analyst (GMOB) inder Assessment and Testing Intermediate
+ISC2 HCISPP under Security and Risk Management Intermediate)
 
 **Network Security**
 
@@ -177,6 +182,11 @@ This is meant to be a life long effort not a short term sprint but if you reach 
 
 ***Other Content***
 
+        ISO/IEC 27001 Certifications
+    [] PECB ISO/IEC 27001 Foundation exam
+    [] PECB Certified ISO/IEC 27001 Lead Implementer exam
+    [] PECB Certified ISO/IEC 27001 Lead Auditor exam
+
         Vendor Specific Certifications
     [] Cellebrite Certified Mobile Examiner (CCME)
     [] Exterro AccessData Certified Examiner (ACE)
@@ -215,9 +225,6 @@ This is meant to be a life long effort not a short term sprint but if you reach 
     [] International Association of Privacy Professionals Certified Information Privacy Professional (CIPP)
     [] International Association of Privacy Professionals Certified Information Privacy Technologist (CIPT)
     [] GIAC Law of Data Security & Investigations (GLEG)
-
-        Criminal Profiling
-    
 
         Useful Websites
     Hackthebox 
