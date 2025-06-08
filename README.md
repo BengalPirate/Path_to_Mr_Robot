@@ -138,7 +138,7 @@ This is meant to be a life long effort not a short term sprint but if you reach 
     [] GIAC iOS and MacOS Examiner (GIME)
     [] IACIS Certified Forensic Computer Examiner (CFCE)
 
-**Penetration_Testing_and_Exploitation**
+**Penetration Testing and Exploitation**
 
         Beginner
     [] CompTIA Pentest+
@@ -169,7 +169,7 @@ This is meant to be a life long effort not a short term sprint but if you reach 
 
         Expert
     [] HackTheBox Certified Web Exploitation Expert (HTB CWEE)
-    [] INE Web Applicaiton Penetration Tester eXtreme (eWPTX)
+    [] INE Web Application Penetration Tester eXtreme (eWPTX)
     [] GIAC Assessing and Auditing Wireless Networks (GAWN)
     [] GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)
     [] Offensive Security WEB - 300 Advanced Web Attacks and Exploitation (OSWE)
