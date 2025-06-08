@@ -36,6 +36,7 @@ This is meant to be a life long effort not a short term sprint but if you reach 
     [] CompTIA Cloud+
     [] Google Associate Cloud Engineer
     [] CompTIA Server+
+    [] CompTIA Linux+
 
         Intermediate
     [] Google Professional Cloud Security Engineer
