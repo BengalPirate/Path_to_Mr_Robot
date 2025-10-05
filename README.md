@@ -41,6 +41,7 @@ This is meant to be a life long effort not a short term sprint but if you reach 
         Intermediate
     [] Google Professional Cloud Security Engineer
     [] Microsoft Certified Azure Administrator Associate
+    [] CompTIA SecAI+
     [] Amazon Web Services Certified Solutions Architect - Associate
     [] Microsoft Certified Azure Security Engineer Associate
     [] Amazon Web Services Certified Security - Specialty
@@ -68,6 +69,7 @@ This is meant to be a life long effort not a short term sprint but if you reach 
     [] ISC2 HealthCare Information Security and Privacy Practitoner (HCISPP)
     [] ISACA Certified Data Privacy Solutions Engineer (CDPSE)
     [] ISACA Certified in Risk and Information Systems Control (CRISC)
+    [] CompTIA SecOT+ 
 
         Expert
     [] CompTIA SecurityX
@@ -252,9 +254,11 @@ This is meant to be a life long effort not a short term sprint but if you reach 
         https://hackersploit-academy.thinkific.com/collections
     Chip Whisperer
         https://learn.chipwhisperer.io
-
+     PowershellForHackers
+        https://powershellforhackers.com
+        
         Youtubers
-    IppSec
-    Loi Liang Yang
-    NetworkChuck
+            IppSec
+            Loi Liang Yang
+            NetworkChuck
 
