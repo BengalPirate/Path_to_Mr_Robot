@@ -231,6 +231,72 @@ This is meant to be a life long effort not a short term sprint but if you reach 
     [] GIAC Law of Data Security & Investigations (GLEG)
 
         Useful Websites
+    Vulnhub
+        https://www.vulnhub.com
+    OvertheWire
+        overthewire.org
+
+        Securitytube.net
+        
+        Exploitdb.com
+
+        CTFtime.org
+
+        Portswigger Academy
+
+        Pentesterlab.com
+
+        hacker101.com
+
+        0day.today
+
+        cyber chef
+
+        malshare.com
+
+        dehashed.com
+
+        binaryedge
+
+        shodan.io
+
+        hackthissite.org
+
+        cryptohack
+
+        CTFLearn
+
+        bwapp
+
+        google gruyere
+
+        Hellbound Hackers
+
+        defend the web
+
+        root me
+
+        overthewire
+
+        pentest tools.com
+
+        Greynoise**
+
+        urlscan.io
+
+        any.run
+
+        Intel X
+
+        Censys
+
+        Shodan
+
+        Virustotal
+
+        cSploit
+
+        
     Hackthebox 
         https://www.hackthebox.com
         https://enterprise.hackthebox.com/login
@@ -240,6 +306,8 @@ This is meant to be a life long effort not a short term sprint but if you reach 
         https://www.hackerverse.com
     zSecurity
         https://zsecurity.org
+
+        Tools 
     Hak5
         https://shop.hak5.org/
     NullByte
