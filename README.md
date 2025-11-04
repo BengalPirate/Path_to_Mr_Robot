@@ -101,7 +101,7 @@ This is meant to be a life long effort not a short term sprint but if you reach 
     [] SECO Secure Programming Foundation (S - SPF)
     [] Mosse Institute Certified Application Security Engineer (MASE)
     [] SecOps Group Certified AppSec Practitoner (CAP)
-    [] Offensive Security SEC - 100 Security Essentials (OSCC - SEC)
+    [] Offensive Security SJD -100 Secure Java Development Essentials (OSCC-SJD) *
 
         Intermediate
     [] GIAC Machine Learning Engineer (GMLE)
@@ -115,7 +115,7 @@ This is meant to be a life long effort not a short term sprint but if you reach 
     [] TCM Security Practical Malware Research Professional (PMRP)
     [] GIAC Reverse Engineering Malware Certification (GREM)
 
-**Forensics**
+**Forensics and Incident Handling**
 
         Beginner
     [] Mosse Institute Certified OSINT Expert (MOIS)
@@ -123,8 +123,10 @@ This is meant to be a life long effort not a short term sprint but if you reach 
     [] EC Council Certified Threat Intelligence Analyst (CTIA)
     [] CompTIA CySA+
     [] GIAC Open Source Intelligence Certification (GOSI)
+    [] Offensive Security SEC - 100 Cybersecurity Essentials (OSCC-SEC) *
 
         Intermediate
+    [] Offensive Security IR - 200 Foundational Incident Response (OSIR) *
     [] IntelTechniques Open Source Intelligence Professional (OSIP)
     [] McAfee Certified Social Media Intelligence Expert (CSMIE)
     [] EC Council Computer Hacking Forensic Investigator (CHFI)
@@ -132,6 +134,8 @@ This is meant to be a life long effort not a short term sprint but if you reach 
     [] INFOSEC Certified Mobile Forensics Examiner (CMFE)
     [] INFOSEC Certified Computer Forensics Examiner (CCFE)
     [] TCM Security Practical OSINT Research Professional (PORP)
+    [] Offensive Security SOC - 200 Security Operations and Defensive Analysis (OSDA) *
+    [] Offensive Security TH-200 Foundational Threat Hunting (OSTH) *
 
         Expert
     [] GIAC Advanced Smartphone Forensics Certification (GASF)
@@ -152,6 +156,7 @@ This is meant to be a life long effort not a short term sprint but if you reach 
     [] INE Mobile Application Penetration Tester (eMAPT)
     [] Mile2 Certified Powershell Hacker (C - PSH)
     [] TCM Security Practical Junior Penetration Tester (PJPT)
+    [] Offensive Security PEN - 103 Kali Linux Revealed (KLCP) 
 
         Intermediate
     [] INE Certified Professional Penetration Tester (eCPPT)
@@ -159,14 +164,15 @@ This is meant to be a life long effort not a short term sprint but if you reach 
     [] Mosse Institute Certified Penetration Tester Certification (MPT)
     [] HackTheBox Certified Penetration Testing Specialist (HTB CPTS)
     [] GIAC Web Application Penetration Tester (GWAPT)
-    [] Offensive Security WEB - 200 Web Attacks with Kali Linux (OSWA)
+    [] Offensive Security WEB - 200 Web Attacks with Kali Linux (OSWA) *
+    [] Offensive Security PEN - 210 Wireless network Attacks (OSWP) *
     [] TCM Security Practical Mobile Pentest Associate (PMPA)
     [] TCM Security Practical Network Penetration Tester (PNPT)
     [] Altered Security Certified Red Team Professional (CRTP)
     [] GIAC Cloud Penetration Tester (GCPN)
     [] GIAC Certified Penetration Tester (GPEN)
     [] Zero Point Security Red Team Ops (CRTO)
-    [] Offensive Security PEN - 200 Penetration Testing with Kali Linux (OSCP)
+    [] Offensive Security PEN - 200 Penetration Testing with Kali Linux (OSCP) *
     [] Offensive Security EXP - 312 MacOS Control Bypasses (OSMR)
     [] Zero Point Security Red Team Ops II (CRTO II)
 
@@ -175,9 +181,9 @@ This is meant to be a life long effort not a short term sprint but if you reach 
     [] INE Web Application Penetration Tester eXtreme (eWPTX)
     [] GIAC Assessing and Auditing Wireless Networks (GAWN)
     [] GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)
-    [] Offensive Security WEB - 300 Advanced Web Attacks and Exploitation (OSWE)
-    [] Offensive Security PEN - 300 Evasion Techniques and Breaching Defenses (OSEP)
-    [] Offensive Security EXP - 301 Windows User Mode Exploit Development (OSED)
+    [] Offensive Security WEB - 300 Advanced Web Attacks and Exploitation (OSWE) *
+    [] Offensive Security PEN - 300 Evasion Techniques and Breaching Defenses (OSEP) *
+    [] Offensive Security EXP - 301 Windows User Mode Exploit Development (OSED) *
         [] Offensive Security Certified Expert 3 (OSCE3)
             *Earning the OSED, OSEP and OSWE automatically grants you the new OSCE3
     [] Offensive Security EXP - 401 Advanced Windows Exploitation (OSEE)
@@ -296,7 +302,8 @@ This is meant to be a life long effort not a short term sprint but if you reach 
 
         cSploit
 
-        
+    Offsec
+        https://www.offsec.com/products/learn-unlimited/
     Hackthebox 
         https://www.hackthebox.com
         https://enterprise.hackthebox.com/login
@@ -306,6 +313,12 @@ This is meant to be a life long effort not a short term sprint but if you reach 
         https://www.hackerverse.com
     zSecurity
         https://zsecurity.org
+    Hackthissite
+        https://www.hackthissite.org
+    PentesterLab
+        https://pentesterlab.com/bootcamp
+    Virtual Hacking Labs
+        https://www.virtualhackinglabs.com
 
         Tools 
     Hak5
