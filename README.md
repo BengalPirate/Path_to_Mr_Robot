@@ -9,6 +9,7 @@ Certs are listed in decending order for increased level of difficult in their re
 https://pauljerimy.com/security-certification-roadmap/
 
 This is meant to be a life long effort not a short term sprint but if you reach the end goal early, more power to you! 
+In all actuality if you have laser focus and motivation you might be able to speed run this list. 
 
 **Network Security**
 
