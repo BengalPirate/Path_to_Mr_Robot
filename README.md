@@ -188,8 +188,7 @@ This is meant to be a life long effort not a short term sprint but if you reach 
             *Earning the OSED, OSEP and OSWE automatically grants you the new OSCE3
     [] Offensive Security EXP - 401 Advanced Windows Exploitation (OSEE)
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etsy.com%2Fno-en%2Flisting%2F1298821369%2Fcomplete-gary-oak-kanto-rival-pokemon&psig=AOvVaw0rB07I3MfGN8FuSLWL_iSA&ust=1762390949447000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCIjv4YXo2ZADFQAAAAAdAAAAABAp"<img width="340" height="270" alt="image" src="https://github.com/user-attachments/assets/2bfc8ef5-996a-47cf-b791-0aa665a91172" />
-
+<img width="340" height="270" alt="image" src="https://github.com/user-attachments/assets/2bfc8ef5-996a-47cf-b791-0aa665a91172" />
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3k2cXd0enI4ZXFuMDI2Y2NwM3cyY2Iyd2V5bXBmeDJ1cjBsdWNtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F1EEpO4NKcqym0ucJY/giphy.gif" alt="Video" height="250px"> 
 
