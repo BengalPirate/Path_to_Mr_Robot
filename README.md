@@ -189,6 +189,8 @@ In all actuality if you have laser focus and motivation you might be able to spe
             *Earning the OSED, OSEP and OSWE automatically grants you the new OSCE3
     [] Offensive Security EXP - 401 Advanced Windows Exploitation (OSEE)
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybDZreTN0Mnl1dnVxZXVnbGhtaGJnMnVtdmNlN2huYjBtN2I1N2U3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BlWF2vzpIPB0A/giphy.gif" alt="Video" height="250px" width="375px">
+
 ***Other Content***
 
         ISO/IEC 27001 Certifications
