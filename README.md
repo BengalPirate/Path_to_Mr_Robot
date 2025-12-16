@@ -40,6 +40,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
     [] CompTIA Linux+
 
         Intermediate
+    [] Cloudflare Accredited Configuration Engineer (ACE)
     [] Google Professional Cloud Security Engineer
     [] Microsoft Certified Azure Administrator Associate
     [] CompTIA SecAI+
@@ -53,6 +54,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
 
         Expert
     [] GIAC Cloud Threat Detection (GCTD)
+    [] Cloudflare Accredited Services Architect (ASA)
     [] Google Professional Cloud Architect
     [] Microsoft Certified Azure Solutions Architect Expert
     [] Amazon Web Services Certified Solutions Architect Professional 
