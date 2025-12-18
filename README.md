@@ -322,6 +322,8 @@ In all actuality if you have laser focus and motivation you might be able to spe
         https://pentesterlab.com/bootcamp
     Virtual Hacking Labs
         https://www.virtualhackinglabs.com
+    MobileHackingLab
+        https://www.mobilehackinglab.com/home
 
         Tools 
     Hak5
@@ -336,12 +338,10 @@ In all actuality if you have laser focus and motivation you might be able to spe
         https://www.udemy.com/user/tib3rius/?srsltid=AfmBOoqHnhgPGnMx8Ng1Dn_Ar77oZ98X3wZHKt4Uz_YfEg0hQtELegtR
     HackerSploit
         https://hackersploit-academy.thinkific.com/collections
-   Chip Whisperer
+    Chip Whisperer
         https://learn.chipwhisperer.io
-   PowershellForHackers
+    PowershellForHackers
         https://powershellforhackers.com
-   MobileHackingLab
-        https://www.mobilehackinglab.com/home
         
         Youtubers
             IppSec
