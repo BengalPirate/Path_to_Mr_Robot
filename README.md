@@ -94,6 +94,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
     [] GIAC Mobile Device Security Analyst (GMOB)
 
         Expert
+    [] HackTheBox Certified Offensive AI Expert (COAE)
     [] ISACA Certified Information Systems Auditor (CISA)
     [] PCI Qualified Security Assessor (PCI DSS QSA)
     [] GIAC Systems and Network Auditor Certification (GSNA)
@@ -138,6 +139,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
     [] INFOSEC Certified Computer Forensics Examiner (CCFE)
     [] TCM Security Practical OSINT Research Professional (PORP)
     [] Offensive Security SOC - 200 Security Operations and Defensive Analysis (OSDA) *
+    [] HackTheBox Certified Defensive Security Analyst (CDSA)
     [] Offensive Security TH-200 Foundational Threat Hunting (OSTH) *
 
         Expert
@@ -155,6 +157,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
     [] EC Council Certified Ethical Hacker  (CEH)
     [] Mosse Institute Vulnerability Research and Exploitation Specialist (MVRE)
     [] TCM Security Practical IoT Pentest Associate (PIPA)
+    [] HTB Certified Junior Cybersecurity Associate (CJCA)
     [] INE Junior Penetration Tester (eJPT)
     [] INE Mobile Application Penetration Tester (eMAPT)
     [] Mile2 Certified Powershell Hacker (C - PSH)
@@ -163,7 +166,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
 
         Intermediate
     [] INE Certified Professional Penetration Tester (eCPPT)
-    [] HackTheBox Certified Bug Bounty Hunter (HTB CBBH)
+    [] HacktheBox Certified Web Exploitation Specialist (CWES)
     [] Mosse Institute Certified Penetration Tester Certification (MPT)
     [] HackTheBox Certified Penetration Testing Specialist (HTB CPTS)
     [] GIAC Web Application Penetration Tester (GWAPT)
@@ -181,6 +184,8 @@ In all actuality if you have laser focus and motivation you might be able to spe
 
         Expert
     [] HackTheBox Certified Web Exploitation Expert (HTB CWEE)
+    [] HackTheBox Wifi Pentesting Expert (CWPE)
+    [] HackTheBox Active Directory Pentesting Expert (CAPE)
     [] INE Web Application Penetration Tester eXtreme (eWPTX)
     [] GIAC Assessing and Auditing Wireless Networks (GAWN)
     [] GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)
