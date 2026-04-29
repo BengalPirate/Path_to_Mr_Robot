@@ -166,7 +166,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
 
         Intermediate
     [] INE Certified Professional Penetration Tester (eCPPT)
-    [] HacktheBox Certified Web Exploitation Specialist (HTB CWES)
+    [] HackTheBox Certified Web Exploitation Specialist (HTB CWES)
     [] Mosse Institute Certified Penetration Tester Certification (MPT)
     [] HackTheBox Certified Penetration Testing Specialist (HTB CPTS)
     [] GIAC Web Application Penetration Tester (GWAPT)
