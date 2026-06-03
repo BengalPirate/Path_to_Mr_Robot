@@ -330,6 +330,8 @@ In all actuality if you have laser focus and motivation you might be able to spe
         https://www.virtualhackinglabs.com
     MobileHackingLab
         https://www.mobilehackinglab.com/home
+    Brown Fine Security Training
+        https://training.brownfinesecurity.com
 
         Tools 
     Hak5
