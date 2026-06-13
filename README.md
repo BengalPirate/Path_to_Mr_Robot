@@ -144,6 +144,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
     [] Offensive Security TH-200 Foundational Threat Hunting (OSTH) *
 
         Expert
+    [] INE Certified Threat Hunting Professional (eCTHP)
     [] GIAC Advanced Smartphone Forensics Certification (GASF)
     [] GIAC Certified Forensic Examiner (GCFE)
     [] GIAC Certified Forensic Analyst (GCFA)
