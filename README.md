@@ -4,7 +4,7 @@
 
 8 Subject areas for proficiency (If you have all of the certs in the 8 areas listed  you are 'potentially' the worlds greatest hacker!!!)
 
-Certs are listed in decending order for increased level of difficult in their respective catergorization. This list was compiled and condensed using information from the following website:
+Certs are listed in decending order for increased level of difficulty in their respective catergorization. This list was compiled and condensed using information from the following website:
 
 https://pauljerimy.com/security-certification-roadmap/
 
@@ -32,7 +32,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
 
         Beginner
     [] CompTIA A+
-    [] Amazon Web Services Certified Cloud Practitoner
+    [] Amazon Web Services Certified Cloud Practitioner
     [] Microsoft Certified Azure Fundamentals
     [] CompTIA Cloud+
     [] Google Associate Cloud Engineer
@@ -66,10 +66,10 @@ In all actuality if you have laser focus and motivation you might be able to spe
 
         Beginner
     [] CompTIA Security+
-    [] Mile2 Certified Healthcare Information Systems Security Practitoner (C-HISSP)
+    [] Mile2 Certified Healthcare Information Systems Security Practitioner (C-HISSP)
 
         Intermediate
-    [] ISC2 HealthCare Information Security and Privacy Practitoner (HCISPP)
+    [] ISC2 HealthCare Information Security and Privacy Practitioner (HCISPP)
     [] ISACA Certified Data Privacy Solutions Engineer (CDPSE)
     [] ISACA Certified in Risk and Information Systems Control (CRISC)
     [] CompTIA SecOT+ 
@@ -105,7 +105,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
         Beginner
     [] SECO Secure Programming Foundation (S - SPF)
     [] Mosse Institute Certified Application Security Engineer (MASE)
-    [] SecOps Group Certified AppSec Practitoner (CAP)
+    [] SecOps Group Certified AppSec Practitioner (CAP)
     [] Offensive Security SJD -100 Secure Java Development Essentials (OSCC-SJD) *
 
         Intermediate
@@ -135,7 +135,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
     [] IntelTechniques Open Source Intelligence Professional (OSIP)
     [] McAfee Certified Social Media Intelligence Expert (CSMIE)
     [] EC Council Computer Hacking Forensic Investigator (CHFI)
-    [] INE Certified Inident Responder (eCIR)
+    [] INE Certified Incident Responder (eCIR)
     [] INFOSEC Certified Computer Forensics Examiner (CCFE)
     [] TCM Security Practical OSINT Research Professional (PORP)
     [] Offensive Security SOC - 200 Security Operations and Defensive Analysis (OSDA) *
@@ -227,6 +227,64 @@ In all actuality if you have laser focus and motivation you might be able to spe
 
 <img src="https://i.redd.it/e3olhysx3ine1.gif" alt="Video" height="250px" width="375px">
 
+**Hardware / Embedded / Firmware Security**
+
+        Reading
+    [] The Hardware Hacking Handbook - Jasper van Woudenberg & Colin O'Flynn
+    [] The Hardware Hacker - Andrew "bunnie" Huang
+    [] Hacking the Xbox - Andrew "bunnie" Huang (free PDF)
+    [] Practical IoT Hacking - Chantzis, Deirmentzoglou, Stais, Calderon
+    [] The IoT Hacker's Handbook - Aditya Gupta
+    [] The Car Hacker's Handbook - Craig Smith
+    [] Software-Defined Radio for Engineers (free) - Collins, Getz, Pu, Wyglinski
+
+        Core Skill Progressions
+    [] UART / serial console discovery + interaction
+    [] SPI flash dumping (flashrom, hardware SOIC clips)
+    [] JTAG / SWD discovery (JTAGulator) and debug
+    [] Firmware extraction & analysis (binwalk, firmware-mod-kit, unblob)
+    [] Firmware RE in Ghidra (bare-metal / RTOS / Linux images)
+    [] Bootloader & secure-boot analysis (U-Boot, chain-of-trust review)
+    [] Emulation & fuzzing (QEMU, Unicorn, AFL on firmware, Fuzzware)
+
+        Side-Channel & Fault Injection
+    [] Power analysis: SPA / DPA / CPA (ChipWhisperer)
+    [] Voltage & clock glitching
+    [] Electromagnetic fault injection (EMFI)
+    [] ChipWhisperer training path (learn.chipwhisperer.io)
+    [] Hardwear.io trainings (SCA/FI, secure boot bypass)
+
+        SoC / MCU-Specific (maps to your active builds)
+    [] ESP32 / ESP32-S3 security: secure boot v2, flash encryption,
+       eFuse review, known glitch/bypass research  (STRUMBRITE relevance)
+    [] ARM TrustZone / TEE attack surface  (RK3588 / Cyberblade relevance)
+    [] ARM exploitation & TrustZone internals
+
+        RFID / NFC / Wireless / RF
+    [] Proxmark3 (RFID/NFC cloning & research)
+    [] SDR: RTL-SDR + HackRF One, GNU Radio, Universal Radio Hacker (URH)
+    [] BLE attacks (nRF52 sniffing, gattacker)
+    [] Zigbee / sub-GHz (Flipper Zero, YARD Stick One)
+
+        Automotive / Industrial Bus
+    [] CAN bus sniffing & injection (can-utils, CANtact)
+    [] Modbus / ICS protocol analysis
+
+        Tooling Bench (the "collectibles" for this hobby)
+    [] Logic analyzer (Saleae or clone)
+    [] Bus Pirate
+    [] ChipWhisperer (Husky / Lite)
+    [] JTAGulator
+    [] HackRF One + RTL-SDR
+    [] Proxmark3 RDV4
+    [] Flipper Zero
+    [] Soldering + hot-air rework station (ties into Neo's IPC board-repair track)
+
+        Certs / Structured Courses (thin market - hardware has few formal certs)
+    [] TCM Security Practical IoT Pentest Associate (PIPA)  [already in your list]
+    [] Offensive IoT Exploitation (various providers)
+    [] SANS SEC556: IoT Penetration Testing
+    
 ***Other Content***
 
         ISO/IEC 27001 Certifications
@@ -239,10 +297,10 @@ In all actuality if you have laser focus and motivation you might be able to spe
     [] Exterro AccessData Certified Examiner (ACE)
     [] EnCase Certified Forensic Security Responder (CFSR)
     [] EnCase Certified Examiner (EnCE)
-    [] EnCase Certified eDiscovery Practitoner (EnCEP)
+    [] EnCase Certified eDiscovery Practitioner (EnCEP)
     [] HL7 FHIR Certification (http://www.hl7.org/certification/fhir.cfm?ref=nav)
         [] HL7 FHIR Foundational Implementer Exam
-        [] HL7 FHIR Advnaced Developer Exam
+        [] HL7 FHIR Advanced Developer Exam
         [] HL7 Version 2 (V2) Control Specialist 
         [] HL7 Version 3 (V3) RIM Specialist 
         [] HL7 Clinical Document Architecture (CDA) Specialist
@@ -279,8 +337,6 @@ In all actuality if you have laser focus and motivation you might be able to spe
         https://www.vulnhub.com
     OvertheWire
         overthewire.org
-
-        Securitytube.net
         
         Exploitdb.com
 
@@ -320,8 +376,6 @@ In all actuality if you have laser focus and motivation you might be able to spe
 
         root me
 
-        overthewire
-
         pentest tools.com
 
         Greynoise**
@@ -333,8 +387,6 @@ In all actuality if you have laser focus and motivation you might be able to spe
         Intel X
 
         Censys
-
-        Shodan
 
         Virustotal
 
@@ -393,33 +445,117 @@ In all actuality if you have laser focus and motivation you might be able to spe
     [] RSA Conference 
     [] Black Hat
     [] DEF CON
+    [] Chaos Communication Congress (CCC)
     [] BSides
     [] CanSecWest
     
         Offensive Security
     [] OffensiveCon
-    [] ShmooCon
     [] Nullcon
-    [] Hack In The Box
+    [] Hack In The Box (HITB)
+    [] Ekoparty
+    [] CODE BLUE
+    [] HITCON
+    [] POC (Seoul)
+    [] Insomni'hack
     
         Competitions
-    [] Pwn2Own
-    [] DEF CON CTF
+    [] National Cyber League (NCL)
+    [] Collegiate Cyber Defense Competition (CCDC)
     [] Collegiate Penetration Testing Competition (CPTC)
+    [] DEF CON CTF
+    [] Pwn2Own (competition run by Trend Micro ZDI, hosted at CanSecWest and other events)
+
+        DEF CON Villages
+    [] Quantum Village
+    [] Hardware Hacking Village
+    [] AI Village
+    [] Red Team Village
+    [] ICS Village
     
         Application Security
     [] OWASP Global AppSec
+        
+        Cloud Security
+    [] fwd:cloudsec
     
-        Reverse Engineering
+        Reverse Engineering / Hardware
     [] REcon
     [] Hardwear.io
+    [] CHES (Cryptographic Hardware and Embedded Systems - PQC implementations, side channels)
+    [] Objective by the Sea (macOS/iOS security)
+    
+        Malware / Threat Intelligence
+    [] VirusBulletin (VB)
+    [] LABScon
     
         DFIR
     [] SANS DFIR Summit
     [] FIRST Conference
     
+        ICS / OT
+    [] S4 Conference
+    
         Academic
-    [] IEEE S&P
+    [] IEEE S&P ("Oakland")
     [] USENIX Security
     [] NDSS
     [] ACM CCS
+    [] IEEE SaTML (secure & trustworthy machine learning)
+    [] Real World Crypto
+    
+        Student Access Notes
+    - BSides: volunteer for free entry
+    - DEF CON: a few hundred dollars cash at the door; volunteering (gooning) after first attendance
+    - Black Hat: student scholarship program (free briefings pass)
+    - SANS: work-study program cuts summit/course costs dramatically
+    - Academic conferences: student registration rates + travel grants (USENIX and IEEE both offer them)
+
+    **Foundations & Recommended Reading**
+
+    (Programming, OS internals, and math fundamentals live in Path_to_Neo.
+     This section is the security-specific canon only.)
+
+        Entry / Mindset
+    [] Hacking: The Art of Exploitation - Jon Erickson
+    [] Penetration Testing: A Hands-On Introduction to Hacking - Georgia Weidman
+    [] The Hacker Playbook 3 - Peter Kim
+    [] Cybersecurity Myths and Misconceptions - Spafford, Metcalf, Dykstra
+
+        Web Exploitation
+    [] The Web Application Hacker's Handbook - Stuttard & Pinto
+    [] The Tangled Web - Michal Zalewski
+    [] Real-World Bug Hunting - Peter Yaworski
+    [] Bug Bounty Bootcamp - Vickie Li
+
+        Binary Exploitation / Reverse Engineering
+    [] The Shellcoder's Handbook - Anley, Heasman, Lindner, Richarte
+    [] Practical Reverse Engineering - Dang, Gazet, Bachaalany
+    [] Practical Binary Analysis - Dennis Andriesse
+    [] The IDA Pro Book - Chris Eagle
+    [] The Ghidra Book - Chris Eagle & Kara Nance
+    [] A Guide to Kernel Exploitation - Perla & Oldani
+
+        Malware Analysis
+    [] Practical Malware Analysis - Sikorski & Honig
+    [] Rootkits and Bootkits - Matrosov, Rodionov, Bratus
+    [] Evasive Malware - Kyle Cucci
+
+        Source-Level Auditing / Secure Dev
+    [] The Art of Software Security Assessment - Dowd, McDonald, Schuh
+    [] The Tangled Web - Zalewski (also here)
+    [] Alice and Bob Learn Application Security - Tanya Janca
+
+        Cryptography
+    [] Serious Cryptography - Jean-Philippe Aumasson
+    [] Crypto 101 (free) - Laurens Van Houtven
+    [] Real-World Cryptography - David Wong
+
+        Networks / Protocols / AD
+    [] Attacking Network Protocols - James Forshaw
+    [] The Hacker's Guide to OS X / macOS internals (for OSMR track)
+
+        Reference / Field Manuals (keep on desk, not read cover-to-cover)
+    [] Red Team Field Manual (RTFM) - Clark & Downer
+    [] Blue Team Field Manual (BTFM) - Clark & Miller
+    [] Operator Handbook - Netmux
