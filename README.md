@@ -387,3 +387,39 @@ In all actuality if you have laser focus and motivation you might be able to spe
             Loi Liang Yang
             NetworkChuck
 
+    Events & Conferences
+
+        General
+    [] RSA Conference 
+    [] Black Hat
+    [] DEF CON
+    [] BSides
+    [] CanSecWest
+    
+        Offensive Security
+    [] OffensiveCon
+    [] ShmooCon
+    [] Nullcon
+    [] Hack In The Box
+    
+        Competitions
+    [] Pwn2Own
+    [] DEF CON CTF
+    [] Collegiate Penetration Testing Competition (CPTC)
+    
+        Application Security
+    [] OWASP Global AppSec
+    
+        Reverse Engineering
+    [] REcon
+    [] Hardwear.io
+    
+        DFIR
+    [] SANS DFIR Summit
+    [] FIRST Conference
+    
+        Academic
+    [] IEEE S&P
+    [] USENIX Security
+    [] NDSS
+    [] ACM CCS
