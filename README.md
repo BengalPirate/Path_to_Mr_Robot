@@ -91,7 +91,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
 
         Intermediate
     [] GIAC Certified Intrusion Analyst Certification (GCIA)
-    [] GIAC Mobile Device Security Analyst (GMOB)
+    [] Mobile Hacking Labs Adversarial AI Masterclass
 
         Expert
     [] HackTheBox Certified Offensive AI Expert (HTB COAE)
@@ -136,7 +136,6 @@ In all actuality if you have laser focus and motivation you might be able to spe
     [] McAfee Certified Social Media Intelligence Expert (CSMIE)
     [] EC Council Computer Hacking Forensic Investigator (CHFI)
     [] INE Certified Inident Responder (eCIR)
-    [] INFOSEC Certified Mobile Forensics Examiner (CMFE)
     [] INFOSEC Certified Computer Forensics Examiner (CCFE)
     [] TCM Security Practical OSINT Research Professional (PORP)
     [] Offensive Security SOC - 200 Security Operations and Defensive Analysis (OSDA) *
@@ -145,7 +144,6 @@ In all actuality if you have laser focus and motivation you might be able to spe
 
         Expert
     [] INE Certified Threat Hunting Professional (eCTHP)
-    [] GIAC Advanced Smartphone Forensics Certification (GASF)
     [] GIAC Certified Forensic Examiner (GCFE)
     [] GIAC Certified Forensic Analyst (GCFA)
     [] GIAC Cyber Threat Intelligence (GCTI)
@@ -161,7 +159,6 @@ In all actuality if you have laser focus and motivation you might be able to spe
     [] TCM Security Practical IoT Pentest Associate (PIPA)
     [] HackTheBox Certified Junior Cybersecurity Associate (HTB CJCA)
     [] INE Junior Penetration Tester (eJPT)
-    [] INE Mobile Application Penetration Tester (eMAPT)
     [] Mile2 Certified Powershell Hacker (C - PSH)
     [] TCM Security Practical Junior Penetration Tester (PJPT)
     [] Offensive Security PEN - 103 Kali Linux Revealed (KLCP) 
@@ -174,7 +171,6 @@ In all actuality if you have laser focus and motivation you might be able to spe
     [] GIAC Web Application Penetration Tester (GWAPT)
     [] Offensive Security WEB - 200 Web Attacks with Kali Linux (OSWA) *
     [] Offensive Security PEN - 210 Wireless network Attacks (OSWP) *
-    [] TCM Security Practical Mobile Pentest Associate (PMPA)
     [] TCM Security Practical Network Penetration Tester (PNPT)
     [] Altered Security Certified Red Team Professional (CRTP)
     [] GIAC Cloud Penetration Tester (GCPN)
@@ -197,6 +193,35 @@ In all actuality if you have laser focus and motivation you might be able to spe
         [] Offensive Security Certified Expert 3 (OSCE3)
             *Earning the OSED, OSEP and OSWE automatically grants you the new OSCE3
     [] Offensive Security EXP - 401 Advanced Windows Exploitation (OSEE)
+
+**Mobile Security**
+
+        Beginner
+    [] Mobile Hacking Labs Free Android AppSec
+    [] Mobile Hacking Labs Free iOS AppSec
+    [] Mobile Hacking Labs Android Frida Labs
+    [] Mobile Hacking Labs Offensive Android Programming
+    [] Mobile Hacking Labs Offensive iOS Programming
+    [] Mobile Hacking Labs ARM64 & LLDB Fundamentals for iOS
+    [] Mobile Hacking Labs Free Mobile Forensics
+
+        Intermediate
+    [] INE Mobile Application Penetration Tester (eMAPT)
+    [] TCM Security Practical Mobile Pentest Associate (PMPA)
+    [] Mobile Hacking Labs CAPT
+    [] Mobile Hacking Labs CIPT
+    [] Mobile Hacking Labs AI Mobile Pentesting
+    [] Mobile Hacking Labs Pentest AI & ML Mobile Applications
+    [] Mobile Hacking Labs Digital Forensics for Android
+    [] Mobile Hacking Labs DFIR Accelerator
+    [] INFOSEC Certified Mobile Forensics Examiner (CMFE)
+    [] GIAC Mobile Device Security Analyst (GMOB)
+
+        Expert
+    [] Mobile Hacking Labs CAED
+    [] Mobile Hacking Labs CIED
+    [] Mobile Hacking Labs CASR
+    [] GIAC Advanced Smartphone Forensics Certification (GASF)
 
 <img src="https://i.redd.it/e3olhysx3ine1.gif" alt="Video" height="250px" width="375px">
 
