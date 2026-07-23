@@ -247,6 +247,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
 
         Blockchain
     [] Certified Blockchain Security Professional (CBSP)
+    [] Mobile Hacking Labs Solidity Smart Contract Hacking
 
         Carnegie Mellon Courses
     [] Carnegie Mellon CERT Insider Threat Program Manager / Analyst
