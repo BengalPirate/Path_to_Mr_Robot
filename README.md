@@ -513,9 +513,6 @@ In all actuality if you have laser focus and motivation you might be able to spe
 
     **Foundations & Recommended Reading**
 
-    (Programming, OS internals, and math fundamentals live in Path_to_Neo.
-     This section is the security-specific canon only.)
-
         Entry / Mindset
     [] Hacking: The Art of Exploitation - Jon Erickson
     [] Penetration Testing: A Hands-On Introduction to Hacking - Georgia Weidman
