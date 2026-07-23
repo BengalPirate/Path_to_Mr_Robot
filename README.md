@@ -210,12 +210,14 @@ In all actuality if you have laser focus and motivation you might be able to spe
     [] TCM Security Practical Mobile Pentest Associate (PMPA)
     [] Mobile Hacking Labs CAPT
     [] Mobile Hacking Labs CIPT
+    [] Mobile Hacking Labs Android Pwn2Own
     [] Mobile Hacking Labs AI Mobile Pentesting
     [] Mobile Hacking Labs Pentest AI & ML Mobile Applications
     [] Mobile Hacking Labs Digital Forensics for Android
     [] Mobile Hacking Labs DFIR Accelerator
     [] INFOSEC Certified Mobile Forensics Examiner (CMFE)
     [] GIAC Mobile Device Security Analyst (GMOB)
+    [] Mobile Hacking Labs CAAH
 
         Expert
     [] Mobile Hacking Labs CAED
