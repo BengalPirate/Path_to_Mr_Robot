@@ -47,7 +47,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
     [] Amazon Web Services Certified Solutions Architect - Associate
     [] Microsoft Certified Azure Security Engineer Associate
     [] Amazon Web Services Certified Security - Specialty
-    [] ISC2 Certified Cloud Security Professional (CCSP)
+    [] ISC2 Certified Cloud Security Professional (CCSP)***
     [] Red Hat Certified System Administrator (RHCSA)
     [] GIAC Certified Windows System Administrator (GCWN)
     [] GIAC Response and Industrial Defense (GRID)
@@ -69,18 +69,18 @@ In all actuality if you have laser focus and motivation you might be able to spe
     [] Mile2 Certified Healthcare Information Systems Security Practitioner (C-HISSP)
 
         Intermediate
-    [] ISC2 HealthCare Information Security and Privacy Practitioner (HCISPP)
-    [] ISACA Certified Data Privacy Solutions Engineer (CDPSE)
-    [] ISACA Certified in Risk and Information Systems Control (CRISC)
+    [] ISC2 HealthCare Information Security and Privacy Practitioner (HCISPP)***
+    [] ISACA Certified Data Privacy Solutions Engineer (CDPSE)***
+    [] ISACA Certified in Risk and Information Systems Control (CRISC)***
     [] CompTIA SecOT+ 
 
         Expert
     [] CompTIA SecurityX
     [] GIAC Security Professsional (GSP)
     [] GIAC Strategic Planning, Policy and Leadership (GSTRT)
-    [] ISC2 Certified Information Systems Security Professional (CISSP)
+    [] ISC2 Certified Information Systems Security Professional (CISSP)***
     [] Project Management Institute Project Management Professional (PMP)
-    [] ISACA Certified Information Security Manager (CISM)
+    [] ISACA Certified Information Security Manager (CISM)***
     [] GIAC Security Expert (GSE)
 
 **Assessment and Testing**
@@ -95,7 +95,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
 
         Expert
     [] HackTheBox Certified Offensive AI Expert (HTB COAE)
-    [] ISACA Certified Information Systems Auditor (CISA)
+    [] ISACA Certified Information Systems Auditor (CISA)***
     [] GIAC Systems and Network Auditor Certification (GSNA)
     [] Offensive Security AI - 300 Advanced AI Red Teaming (OSAI)
 
@@ -110,7 +110,7 @@ In all actuality if you have laser focus and motivation you might be able to spe
         Intermediate
     [] GIAC Machine Learning Engineer (GMLE)
     [] EC Council Certified Application Security Engineer (CASE)
-    [] ISC2 Certified Secure Software Lifecycle Professional (CSSLP)
+    [] ISC2 Certified Secure Software Lifecycle Professional (CSSLP)***
     [] GIAC Certified Web Application Defender (GWEB)
 
         Expert
